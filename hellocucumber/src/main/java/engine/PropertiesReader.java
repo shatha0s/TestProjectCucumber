@@ -6,7 +6,6 @@ import java.util.Properties;
 
 public class PropertiesReader {
     public static Properties props;
-
     public static void readPropertyFile(String configPath) {
         props = new Properties();
         try {

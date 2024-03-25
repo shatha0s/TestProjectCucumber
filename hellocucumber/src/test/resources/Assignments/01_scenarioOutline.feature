@@ -6,7 +6,7 @@ Feature: First Scenario Homework
     And verifies that the page title contains the word "<title>"
     And closes the page
     Examples:
-      |pageurl|  title|
+      |pageurl   |  title |
       |googleUrl | Google |
       |amazonUrl | Amazon |
-      |youtubeUrl | YouTube  |
+      |youtubeUrl| YouTube|
